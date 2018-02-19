@@ -28,7 +28,7 @@ app.use("/", routes);
 // connectToDatabase({
 //   hostname: "localhost",
 //   port: "27017",
-//   database: "vue"
+//   database: "test"
 // });
 
 let port =  process.env.PORT || 8888;

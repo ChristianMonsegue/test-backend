@@ -1,12 +1,12 @@
 {
-  "name": "vue-backend",
+  "name": "test-backend",
   "version": "1.0.0",
-  "description": "Vue Backend",
+  "description": "Test Backend",
   "main": "app.js",
   "scripts": {
     "dev": "babel-node app.js"
   },
-  "author": "Christian",
+  "author": "Christian Monsegue",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
