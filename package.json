@@ -1,0 +1,25 @@
+{
+  "name": "vue-backend",
+  "version": "1.0.0",
+  "description": "Vue Backend",
+  "main": "app.js",
+  "scripts": {
+    "dev": "babel-node app.js"
+  },
+  "author": "Christian",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-validator": "^4.3.0",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.13.6",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
